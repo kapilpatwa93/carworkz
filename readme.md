@@ -27,4 +27,5 @@ Request object :  application/json
 * **services** : array of string - services provided by the centres (eg. reqular,paid)[case insensitive]
 * **features** : array of string - features of the service centres (eg. pickup,card,cashless)[case insensitive]
 * **min_ratings** : number - will show the centres having rating more than equal to this
+
 All the above parameters are required(non empty) when included in the request object
