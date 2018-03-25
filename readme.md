@@ -13,7 +13,7 @@ Scraps : [https://www.carworkz.com/mumbai/regular-service](https://www.carworkz.
 
 
 #### 2) Reset Data
-endpoint : /api/reset (POST)
+endpoint : /api/reset (GET)
 
 Clears all the documents from the *Service Centre* collection.
 
